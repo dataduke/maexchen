@@ -52,6 +52,9 @@ public class IntelligentBot implements MessageListener {
             } else if (lastDice.equals("6,6")) {
                 System.out.println("SEE wegen 6,6");
                 tryToSend("SEE;" + parts[1]);
+            } else if (!lastDice.equals("") && !dices.contains(lastDice)){
+                System.out.println("SEE wegen falscher nummer");
+                tryToSend("SEE;" + parts[1]);
             }
             else if (dices.indexOf(lastDice) == dices.indexOf(forLastDice) + 1){
                 System.out.println("SEE wegen nur eins abstand");

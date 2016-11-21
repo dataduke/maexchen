@@ -1,0 +1,905 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/bin/java -Didea.launcher.port=7534 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/lib/tools.jar:/Users/dataduke/max/maexchen/out/production/main1:/Users/dataduke/max/maexchen/out/production/main2:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain simplebot.Main 10.10.10.1 9000 HBB
+---> REGISTER;HBB
+<--- REGISTERED
+<--- ROUND STARTED;2264;HBB,mob,Haskellians,notAClue,undefined,bienchen,JT
+<--- PLAYER ROLLS;HBB
+<--- ANNOUNCED;HBB;6,3
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1938,Haskellians:1173,JT:1876,bienchen:1644,mob:1591,notAClue:1772,notAClue-dev:0,undefined:1773
+<--- ROUND STARTING;37321de0-e167-4544-b4d8-12ff30127f76
+---> JOIN;37321de0-e167-4544-b4d8-12ff30127f76
+<--- ROUND STARTED;2265;undefined,notAClue,Haskellians,mob,bienchen,HBB,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,5
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,5
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1939,Haskellians:1174,JT:1877,bienchen:1645,mob:1592,notAClue:1772,notAClue-dev:0,undefined:1774
+<--- ROUND STARTING;940b0abc-804b-4346-8ae6-8489ca6e18fd
+---> JOIN;940b0abc-804b-4346-8ae6-8489ca6e18fd
+<--- ROUND STARTED;2266;notAClue,bienchen,mob,HBB,undefined,JT,Haskellians
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,4
+<--- YOUR TURN;3a53eb15-9140-4099-a330-ba5e0cd53dab
+Last Dice:4,4
+---> ROLL;3a53eb15-9140-4099-a330-ba5e0cd53dab
+<--- PLAYER ROLLS;HBB
+<--- ROLLED;2,2;bbdbe000-9079-4013-99eb-d55b896d03e0
+fake
+---> ANNOUNCE;5,5;bbdbe000-9079-4013-99eb-d55b896d03e0
+<--- ANNOUNCED;HBB;5,5
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;2,2
+<--- PLAYER LOST;HBB;CAUGHT_BLUFFING
+<--- SCORE;HBB:1939,Haskellians:1175,JT:1878,bienchen:1646,mob:1593,notAClue:1773,notAClue-dev:0,undefined:1775
+<--- ROUND STARTING;a77f06f8-03fc-4b48-a3fa-d901a920f9d6
+---> JOIN;a77f06f8-03fc-4b48-a3fa-d901a920f9d6
+<--- ROUND STARTED;2267;mob,HBB,notAClue,Haskellians,undefined,bienchen,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- YOUR TURN;4c2b4f01-810a-431b-83f9-d1d5920a3642
+Last Dice:3,2
+---> ROLL;4c2b4f01-810a-431b-83f9-d1d5920a3642
+<--- PLAYER ROLLS;HBB
+<--- ROLLED;6,2;9aa12750-92a7-49b2-a498-35a9102d926e
+real
+---> ANNOUNCE;6,2;9aa12750-92a7-49b2-a498-35a9102d926e
+<--- ANNOUNCED;HBB;6,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,2
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1940,Haskellians:1176,JT:1879,bienchen:1647,mob:1594,notAClue:1773,notAClue-dev:0,undefined:1776
+<--- ROUND STARTING;583c2de4-448f-459b-9493-eb018c715c2e
+---> JOIN;583c2de4-448f-459b-9493-eb018c715c2e
+<--- ROUND STARTED;2268;bienchen,undefined,Haskellians,mob,JT,HBB,notAClue
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;6,4
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1941,Haskellians:1177,JT:1880,bienchen:1647,mob:1595,notAClue:1774,notAClue-dev:0,undefined:1777
+<--- ROUND STARTING;4dd0af03-9fe3-493e-94a0-bcd2a52a3189
+---> JOIN;4dd0af03-9fe3-493e-94a0-bcd2a52a3189
+<--- HEARTBEAT
+<--- ROUND STARTED;2269;undefined,mob,Haskellians,JT,HBB,notAClue,bienchen
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,1
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,4
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,3
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1942,Haskellians:1177,JT:1881,bienchen:1648,mob:1596,notAClue:1775,notAClue-dev:0,undefined:1778
+<--- ROUND STARTING;fabf6c4a-404e-4a9e-884a-1644bad9ec20
+---> JOIN;fabf6c4a-404e-4a9e-884a-1644bad9ec20
+<--- ROUND STARTED;2270;mob,Haskellians,notAClue,HBB,bienchen,JT,undefined
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;3,2
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1943,Haskellians:1177,JT:1882,bienchen:1649,mob:1597,notAClue:1776,notAClue-dev:0,undefined:1779
+<--- ROUND STARTING;03237461-faaa-4247-b648-6f6a4c7787a9
+---> JOIN;03237461-faaa-4247-b648-6f6a4c7787a9
+<--- ROUND STARTED;2271;mob,undefined,notAClue,Haskellians,HBB,JT,bienchen
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,notAClue,undefined;MIA
+<--- SCORE;HBB:1943,Haskellians:1177,JT:1882,bienchen:1649,mob:1598,notAClue:1776,notAClue-dev:0,undefined:1779
+<--- ROUND STARTING;1f5ac0ac-53e3-4e70-9d91-b1689b7eaf11
+---> JOIN;1f5ac0ac-53e3-4e70-9d91-b1689b7eaf11
+<--- ROUND STARTED;2272;undefined,notAClue,mob,bienchen,Haskellians,HBB,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;3,1
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,1
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;5,2
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1944,Haskellians:1177,JT:1883,bienchen:1650,mob:1599,notAClue:1777,notAClue-dev:0,undefined:1780
+<--- ROUND STARTING;ab7c9ac2-4769-49ec-ab11-fd9b0f384584
+---> JOIN;ab7c9ac2-4769-49ec-ab11-fd9b0f384584
+<--- ROUND STARTED;2273;notAClue,mob,undefined,Haskellians,bienchen,HBB,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;3,3
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1945,Haskellians:1178,JT:1884,bienchen:1651,mob:1599,notAClue:1778,notAClue-dev:0,undefined:1781
+<--- ROUND STARTING;3085d48e-5cf3-48d8-94e5-1cecd0b160c3
+---> JOIN;3085d48e-5cf3-48d8-94e5-1cecd0b160c3
+<--- ROUND STARTED;2274;mob,notAClue,undefined,Haskellians,HBB,JT,bienchen
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,4
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,4
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1946,Haskellians:1179,JT:1885,bienchen:1652,mob:1600,notAClue:1778,notAClue-dev:0,undefined:1782
+<--- ROUND STARTING;b4520dc1-63e3-42cb-9074-1264a25431b8
+---> JOIN;b4520dc1-63e3-42cb-9074-1264a25431b8
+<--- HEARTBEAT
+<--- ROUND STARTED;2275;notAClue,mob,bienchen,undefined,JT,Haskellians,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,3
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1947,Haskellians:1180,JT:1886,bienchen:1652,mob:1601,notAClue:1779,notAClue-dev:0,undefined:1783
+<--- ROUND STARTING;154eaddb-df72-4ded-a17c-2ab6ff71b72e
+---> JOIN;154eaddb-df72-4ded-a17c-2ab6ff71b72e
+<--- ROUND STARTED;2276;notAClue,JT,mob,bienchen,undefined,HBB,Haskellians
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,2
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1948,Haskellians:1181,JT:1887,bienchen:1653,mob:1601,notAClue:1780,notAClue-dev:0,undefined:1784
+<--- ROUND STARTING;706e5154-fcdf-4e2e-b68c-9cd5ccc4d2d1
+---> JOIN;706e5154-fcdf-4e2e-b68c-9cd5ccc4d2d1
+<--- ROUND STARTED;2277;notAClue,undefined,JT,mob,bienchen,HBB,Haskellians
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,4
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,4
+<--- PLAYER LOST;undefined;SEE_FAILED
+<--- SCORE;HBB:1949,Haskellians:1182,JT:1888,bienchen:1654,mob:1602,notAClue:1781,notAClue-dev:0,undefined:1784
+<--- ROUND STARTING;4c068b7f-2f1c-42ba-9e27-8de30696c7cb
+---> JOIN;4c068b7f-2f1c-42ba-9e27-8de30696c7cb
+<--- ROUND STARTED;2278;Haskellians,notAClue,mob,bienchen,undefined,JT,HBB
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,2
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1950,Haskellians:1183,JT:1889,bienchen:1655,mob:1603,notAClue:1781,notAClue-dev:0,undefined:1785
+<--- ROUND STARTING;377ca570-6d76-44b7-a748-001d6bcdc3d9
+---> JOIN;377ca570-6d76-44b7-a748-001d6bcdc3d9
+<--- ROUND STARTED;2279;mob,bienchen,Haskellians,JT,undefined,HBB,notAClue
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,3
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,3
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1951,Haskellians:1183,JT:1890,bienchen:1656,mob:1604,notAClue:1782,notAClue-dev:0,undefined:1786
+<--- ROUND STARTING;c4556298-dccb-4b67-a873-7d837ceb803c
+---> JOIN;c4556298-dccb-4b67-a873-7d837ceb803c
+<--- ROUND STARTED;2280;mob,notAClue,undefined,bienchen,HBB,Haskellians,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,1
+<--- PLAYER LOST;notAClue;CAUGHT_BLUFFING
+<--- SCORE;HBB:1952,Haskellians:1184,JT:1891,bienchen:1657,mob:1605,notAClue:1782,notAClue-dev:0,undefined:1787
+<--- ROUND STARTING;3ffd77db-7b3a-43dd-ab50-851098df3ee7
+---> JOIN;3ffd77db-7b3a-43dd-ab50-851098df3ee7
+<--- HEARTBEAT
+<--- ROUND STARTED;2281;notAClue,mob,Haskellians,JT,undefined,bienchen,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,mob,undefined;MIA
+<--- SCORE;HBB:1952,Haskellians:1184,JT:1891,bienchen:1657,mob:1605,notAClue:1783,notAClue-dev:0,undefined:1787
+<--- ROUND STARTING;4f1df613-e187-4683-966b-f0374d16300a
+---> JOIN;4f1df613-e187-4683-966b-f0374d16300a
+<--- ROUND STARTED;2282;undefined,bienchen,mob,notAClue,HBB,JT,Haskellians
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;3,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1953,Haskellians:1185,JT:1892,bienchen:1658,mob:1605,notAClue:1784,notAClue-dev:0,undefined:1788
+<--- ROUND STARTING;0b54b88c-83dc-412c-93ad-ea8a77e6925a
+---> JOIN;0b54b88c-83dc-412c-93ad-ea8a77e6925a
+<--- ROUND STARTED;2283;mob,bienchen,notAClue,undefined,Haskellians,HBB,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,notAClue,undefined;MIA
+<--- SCORE;HBB:1953,Haskellians:1185,JT:1892,bienchen:1658,mob:1606,notAClue:1784,notAClue-dev:0,undefined:1788
+<--- ROUND STARTING;23b546d7-8db4-4a08-8c6e-185512a3a523
+---> JOIN;23b546d7-8db4-4a08-8c6e-185512a3a523
+<--- ROUND STARTED;2284;undefined,mob,notAClue,JT,bienchen,Haskellians,HBB
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,3
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1954,Haskellians:1186,JT:1893,bienchen:1659,mob:1606,notAClue:1785,notAClue-dev:0,undefined:1789
+<--- ROUND STARTING;5493d5ee-2c4d-4fd5-a8bc-86f497d3c8fb
+---> JOIN;5493d5ee-2c4d-4fd5-a8bc-86f497d3c8fb
+<--- ROUND STARTED;2285;undefined,notAClue,mob,Haskellians,HBB,bienchen,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;5,2
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,5
+<--- PLAYER WANTS TO SEE;mob
+<--- ACTUAL DICE;6,5
+<--- PLAYER LOST;mob;SEE_FAILED
+<--- SCORE;HBB:1955,Haskellians:1187,JT:1894,bienchen:1660,mob:1606,notAClue:1786,notAClue-dev:0,undefined:1790
+<--- ROUND STARTING;6de211ad-0a31-4bfa-85f5-74ad30d96f8b
+---> JOIN;6de211ad-0a31-4bfa-85f5-74ad30d96f8b
+<--- ROUND STARTED;2286;undefined,JT,notAClue,HBB,bienchen,mob,Haskellians
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,6
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER LOST;JT;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1956,Haskellians:1188,JT:1894,bienchen:1661,mob:1607,notAClue:1787,notAClue-dev:0,undefined:1791
+<--- ROUND STARTING;34f89ecc-8b83-4808-b3c0-1f8428f5a0bf
+---> JOIN;34f89ecc-8b83-4808-b3c0-1f8428f5a0bf
+<--- ROUND STARTED;2287;undefined,bienchen,notAClue,mob,Haskellians,HBB,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;4,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;5,1
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1957,Haskellians:1189,JT:1895,bienchen:1661,mob:1608,notAClue:1788,notAClue-dev:0,undefined:1792
+<--- ROUND STARTING;02736e6b-eb6d-40e6-a28c-b7eb9ec30080
+---> JOIN;02736e6b-eb6d-40e6-a28c-b7eb9ec30080
+<--- HEARTBEAT
+<--- ROUND STARTED;2288;mob,notAClue,undefined,JT,HBB,bienchen,Haskellians
+<--- PLAYER WANTS TO SEE;mob
+<--- PLAYER LOST;mob;SEE_BEFORE_FIRST_ROLL
+<--- SCORE;HBB:1958,Haskellians:1190,JT:1896,bienchen:1662,mob:1608,notAClue:1789,notAClue-dev:0,undefined:1793
+<--- ROUND STARTING;4138f1e8-76b7-48dc-bf13-c1e07e02a201
+---> JOIN;4138f1e8-76b7-48dc-bf13-c1e07e02a201
+<--- ROUND STARTED;2289;undefined,mob,notAClue,bienchen,Haskellians,HBB,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;4,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,3
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;3,3
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1959,Haskellians:1191,JT:1897,bienchen:1663,mob:1609,notAClue:1789,notAClue-dev:0,undefined:1794
+<--- ROUND STARTING;08f4ead7-d1d8-4430-a14f-c82179bf6d27
+---> JOIN;08f4ead7-d1d8-4430-a14f-c82179bf6d27
+<--- ROUND STARTED;2290;bienchen,mob,notAClue,HBB,Haskellians,JT,undefined
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;1,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1960,Haskellians:1192,JT:1898,bienchen:1664,mob:1609,notAClue:1790,notAClue-dev:0,undefined:1795
+<--- ROUND STARTING;dd62dbf8-964b-4c36-a129-e754e13bd868
+---> JOIN;dd62dbf8-964b-4c36-a129-e754e13bd868
+<--- ROUND STARTED;2291;Haskellians,notAClue,JT,mob,HBB,bienchen,undefined
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,1
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1961,Haskellians:1193,JT:1899,bienchen:1665,mob:1610,notAClue:1790,notAClue-dev:0,undefined:1796
+<--- ROUND STARTING;a610ffed-6811-4cc9-9561-b53cd68f9873
+---> JOIN;a610ffed-6811-4cc9-9561-b53cd68f9873
+<--- ROUND STARTED;2292;undefined,bienchen,JT,notAClue,HBB,mob,Haskellians
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,1
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,4
+<--- PLAYER LOST;JT;CAUGHT_BLUFFING
+<--- SCORE;HBB:1962,Haskellians:1194,JT:1899,bienchen:1666,mob:1611,notAClue:1791,notAClue-dev:0,undefined:1797
+<--- ROUND STARTING;d70ab56a-f6fe-409c-ab33-64574259bc6d
+---> JOIN;d70ab56a-f6fe-409c-ab33-64574259bc6d
+<--- ROUND STARTED;2293;notAClue,bienchen,undefined,mob,Haskellians,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;undefined;SEE_FAILED
+<--- SCORE;HBB:1963,Haskellians:1195,JT:1900,bienchen:1667,mob:1612,notAClue:1792,notAClue-dev:0,undefined:1797
+<--- ROUND STARTING;c404cc03-96d5-41cc-a9ec-0f6ea5ffb13a
+---> JOIN;c404cc03-96d5-41cc-a9ec-0f6ea5ffb13a
+<--- HEARTBEAT
+<--- ROUND STARTED;2294;undefined,Haskellians,notAClue,HBB,bienchen,mob,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,3
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,3
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1964,Haskellians:1196,JT:1901,bienchen:1668,mob:1613,notAClue:1792,notAClue-dev:0,undefined:1798
+<--- ROUND STARTING;c2f76ecc-8193-46ea-b7b2-030125d0a294
+---> JOIN;c2f76ecc-8193-46ea-b7b2-030125d0a294
+<--- ROUND STARTED;2295;notAClue,mob,bienchen,Haskellians,undefined,HBB,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,5
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,3
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1965,Haskellians:1197,JT:1902,bienchen:1669,mob:1613,notAClue:1793,notAClue-dev:0,undefined:1799
+<--- ROUND STARTING;f7a270a8-6499-43c9-8e4a-eb20da334fe8
+---> JOIN;f7a270a8-6499-43c9-8e4a-eb20da334fe8
+<--- ROUND STARTED;2296;bienchen,mob,Haskellians,undefined,notAClue,JT,HBB
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1966,Haskellians:1198,JT:1903,bienchen:1670,mob:1613,notAClue:1794,notAClue-dev:0,undefined:1800
+<--- ROUND STARTING;a76664a8-715e-40c4-a2f1-13f3f454f54e
+---> JOIN;a76664a8-715e-40c4-a2f1-13f3f454f54e
+<--- ROUND STARTED;2297;notAClue,bienchen,undefined,Haskellians,mob,HBB,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,mob,undefined;MIA
+<--- SCORE;HBB:1966,Haskellians:1198,JT:1903,bienchen:1670,mob:1613,notAClue:1795,notAClue-dev:0,undefined:1800
+<--- ROUND STARTING;76c734ae-a3f5-4200-8d47-b3b2b4903a03
+---> JOIN;76c734ae-a3f5-4200-8d47-b3b2b4903a03
+<--- ROUND STARTED;2298;bienchen,mob,Haskellians,undefined,notAClue,JT,HBB
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,4
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,2
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1967,Haskellians:1198,JT:1904,bienchen:1671,mob:1614,notAClue:1796,notAClue-dev:0,undefined:1801
+<--- ROUND STARTING;2ed6e4ed-1b23-4b28-b2db-8431d0931c2b
+---> JOIN;2ed6e4ed-1b23-4b28-b2db-8431d0931c2b
+<--- ROUND STARTED;2299;notAClue,mob,undefined,bienchen,JT,Haskellians,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,4
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1968,Haskellians:1199,JT:1905,bienchen:1672,mob:1614,notAClue:1797,notAClue-dev:0,undefined:1802
+<--- ROUND STARTING;ab2184e5-c03c-490e-8907-17a8da0ba9e5
+---> JOIN;ab2184e5-c03c-490e-8907-17a8da0ba9e5
+<--- ROUND STARTED;2300;mob,notAClue,Haskellians,bienchen,HBB,undefined,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,3
+<--- HEARTBEAT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;6,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- YOUR TURN;bdb1e075-2acf-423b-9c9f-32de19bd19e2
+Last Dice:2,2
+---> ROLL;bdb1e075-2acf-423b-9c9f-32de19bd19e2
+<--- PLAYER ROLLS;HBB
+<--- ROLLED;4,2;5cd284d1-997a-4a88-bb83-7d825d0a981d
+fake
+---> ANNOUNCE;5,5;5cd284d1-997a-4a88-bb83-7d825d0a981d
+<--- ANNOUNCED;HBB;5,5
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;4,2
+<--- PLAYER LOST;HBB;CAUGHT_BLUFFING
+<--- SCORE;HBB:1968,Haskellians:1200,JT:1906,bienchen:1673,mob:1615,notAClue:1798,notAClue-dev:0,undefined:1803
+<--- ROUND STARTING;e92499e1-9fa0-492f-9a04-6202aafc13d5
+---> JOIN;e92499e1-9fa0-492f-9a04-6202aafc13d5
+<--- ROUND STARTED;2301;bienchen,mob,notAClue,undefined,Haskellians,HBB,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;mob
+<--- ACTUAL DICE;6,3
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1969,Haskellians:1201,JT:1907,bienchen:1673,mob:1616,notAClue:1799,notAClue-dev:0,undefined:1804
+<--- ROUND STARTING;cc6e5b0a-66c6-4163-839f-cc344ac5c2ac
+---> JOIN;cc6e5b0a-66c6-4163-839f-cc344ac5c2ac
+<--- ROUND STARTED;2302;HBB,mob,notAClue,bienchen,Haskellians,undefined,JT
+<--- YOUR TURN;9250c59a-3d8e-4d01-931e-ffb9ea5b9f23
+SEE wegen falscher nummer
+---> SEE;9250c59a-3d8e-4d01-931e-ffb9ea5b9f23
+<--- PLAYER WANTS TO SEE;HBB
+<--- PLAYER LOST;HBB;SEE_BEFORE_FIRST_ROLL
+<--- SCORE;HBB:1969,Haskellians:1202,JT:1908,bienchen:1674,mob:1617,notAClue:1800,notAClue-dev:0,undefined:1805
+<--- ROUND STARTING;b66aba5c-62b6-41a7-bf5d-d842fc78408a
+---> JOIN;b66aba5c-62b6-41a7-bf5d-d842fc78408a
+<--- ROUND STARTED;2303;bienchen,notAClue,mob,HBB,undefined,Haskellians,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;5,3
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1970,Haskellians:1203,JT:1909,bienchen:1674,mob:1618,notAClue:1801,notAClue-dev:0,undefined:1806
+<--- ROUND STARTING;65777345-c79e-490d-be76-0cb08ce45e9a
+---> JOIN;65777345-c79e-490d-be76-0cb08ce45e9a
+<--- ROUND STARTED;2304;undefined,notAClue,bienchen,mob,Haskellians,HBB,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,1
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1971,Haskellians:1204,JT:1910,bienchen:1675,mob:1619,notAClue:1801,notAClue-dev:0,undefined:1807
+<--- ROUND STARTING;099c272f-c959-499c-b8d8-0be4f634687e
+---> JOIN;099c272f-c959-499c-b8d8-0be4f634687e
+<--- ROUND STARTED;2305;mob,undefined,bienchen,notAClue,HBB,Haskellians,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,2
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,mob,notAClue;MIA
+<--- SCORE;HBB:1971,Haskellians:1204,JT:1910,bienchen:1675,mob:1619,notAClue:1801,notAClue-dev:0,undefined:1808
+<--- ROUND STARTING;605c5717-a603-4f71-8b1e-e4b03f9774b3
+---> JOIN;605c5717-a603-4f71-8b1e-e4b03f9774b3
+<--- ROUND STARTED;2306;notAClue,mob,Haskellians,bienchen,undefined,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1972,Haskellians:1205,JT:1911,bienchen:1676,mob:1619,notAClue:1802,notAClue-dev:0,undefined:1809
+<--- ROUND STARTING;22ae79d6-5d40-4747-8362-95a8ba2f1a5b
+---> JOIN;22ae79d6-5d40-4747-8362-95a8ba2f1a5b
+<--- HEARTBEAT
+<--- ROUND STARTED;2307;mob,notAClue,undefined,Haskellians,bienchen,HBB,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,4
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,4
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1973,Haskellians:1206,JT:1912,bienchen:1677,mob:1620,notAClue:1802,notAClue-dev:0,undefined:1810
+<--- ROUND STARTING;543a394e-011d-4dc4-84e6-814268a380aa
+---> JOIN;543a394e-011d-4dc4-84e6-814268a380aa
+<--- ROUND STARTED;2308;notAClue,mob,Haskellians,bienchen,undefined,HBB,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,4
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;5,3
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1974,Haskellians:1206,JT:1913,bienchen:1678,mob:1621,notAClue:1803,notAClue-dev:0,undefined:1811
+<--- ROUND STARTING;9d377948-96d4-4309-9595-ebfb74cece2c
+---> JOIN;9d377948-96d4-4309-9595-ebfb74cece2c
+<--- ROUND STARTED;2309;notAClue,bienchen,JT,mob,Haskellians,HBB,undefined
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,6
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER LOST;bienchen;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1975,Haskellians:1207,JT:1914,bienchen:1678,mob:1622,notAClue:1804,notAClue-dev:0,undefined:1812
+<--- ROUND STARTING;f27ba980-4fbf-48f7-858b-216305fdb59a
+---> JOIN;f27ba980-4fbf-48f7-858b-216305fdb59a
+<--- ROUND STARTED;2310;Haskellians,notAClue,undefined,mob,HBB,bienchen,JT
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,JT,bienchen,mob,notAClue,undefined;MIA
+<--- SCORE;HBB:1975,Haskellians:1208,JT:1914,bienchen:1678,mob:1622,notAClue:1804,notAClue-dev:0,undefined:1812
+<--- ROUND STARTING;792a11ba-4e78-4ff0-ab55-4f11787e99d1
+---> JOIN;792a11ba-4e78-4ff0-ab55-4f11787e99d1
+<--- ROUND STARTED;2311;bienchen,mob,notAClue,HBB,undefined,JT,Haskellians
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1976,Haskellians:1209,JT:1915,bienchen:1679,mob:1622,notAClue:1805,notAClue-dev:0,undefined:1813
+<--- ROUND STARTING;ed36d6a7-4089-41ba-9a55-fb382a322d54
+---> JOIN;ed36d6a7-4089-41ba-9a55-fb382a322d54
+<--- ROUND STARTED;2312;mob,JT,notAClue,undefined,bienchen,HBB,Haskellians
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,6
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER LOST;JT;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1977,Haskellians:1210,JT:1915,bienchen:1680,mob:1623,notAClue:1806,notAClue-dev:0,undefined:1814
+<--- ROUND STARTING;f546db9a-2527-4728-8297-96b1345e1954
+---> JOIN;f546db9a-2527-4728-8297-96b1345e1954
+<--- ROUND STARTED;2313;mob,undefined,Haskellians,notAClue,bienchen,JT,HBB
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,1
+<--- HEARTBEAT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;5,1
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;5,4
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;1,1
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;2,2
+<--- PLAYER LOST;JT;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1978,Haskellians:1211,JT:1915,bienchen:1681,mob:1624,notAClue:1807,notAClue-dev:0,undefined:1815
+<--- ROUND STARTING;36f42f0d-bf9d-43f8-b7cf-09df86d0354a
+---> JOIN;36f42f0d-bf9d-43f8-b7cf-09df86d0354a
+<--- ROUND STARTED;2314;notAClue,mob,undefined,bienchen,Haskellians,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,4
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1979,Haskellians:1212,JT:1916,bienchen:1682,mob:1624,notAClue:1808,notAClue-dev:0,undefined:1816
+<--- ROUND STARTING;f113f1bb-083d-454d-a8d3-2cd588ff5d5d
+---> JOIN;f113f1bb-083d-454d-a8d3-2cd588ff5d5d
+<--- ROUND STARTED;2315;notAClue,bienchen,undefined,HBB,Haskellians,mob,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;4,2
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1980,Haskellians:1213,JT:1917,bienchen:1682,mob:1625,notAClue:1809,notAClue-dev:0,undefined:1817
+<--- ROUND STARTING;5d10b7f8-867d-4872-806b-8204b91665b8
+---> JOIN;5d10b7f8-867d-4872-806b-8204b91665b8
+<--- ROUND STARTED;2316;notAClue,mob,JT,undefined,bienchen,Haskellians,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;3,3
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,notAClue,undefined;MIA
+<--- SCORE;HBB:1980,Haskellians:1213,JT:1917,bienchen:1682,mob:1626,notAClue:1809,notAClue-dev:0,undefined:1817
+<--- ROUND STARTING;bf1d3dad-1035-4db2-aa9c-fb5d6996b32c
+---> JOIN;bf1d3dad-1035-4db2-aa9c-fb5d6996b32c
+<--- ROUND STARTED;2317;bienchen,JT,notAClue,undefined,HBB,mob,Haskellians
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;3,1
+<--- PLAYER LOST;JT;CAUGHT_BLUFFING
+<--- SCORE;HBB:1981,Haskellians:1214,JT:1917,bienchen:1683,mob:1627,notAClue:1810,notAClue-dev:0,undefined:1818
+<--- ROUND STARTING;ee64f4c5-2ece-4b93-a70d-3eb1b4ae44d2
+---> JOIN;ee64f4c5-2ece-4b93-a70d-3eb1b4ae44d2
+<--- ROUND STARTED;2318;mob,notAClue,Haskellians,undefined,JT,bienchen,HBB
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,3
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;3,3
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;5,5
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;6,6
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER LOST;bienchen;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1982,Haskellians:1215,JT:1918,bienchen:1683,mob:1628,notAClue:1811,notAClue-dev:0,undefined:1819
+<--- ROUND STARTING;8b03cbb5-9180-4fe7-a9ff-344bda5c17da
+---> JOIN;8b03cbb5-9180-4fe7-a9ff-344bda5c17da
+<--- ROUND STARTED;2319;Haskellians,bienchen,undefined,HBB,notAClue,JT,mob
+<--- PLAYER ROLLS;Haskellians
+<--- HEARTBEAT
+<--- ANNOUNCED;Haskellians;6,4
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;1,1
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1983,Haskellians:1216,JT:1919,bienchen:1683,mob:1629,notAClue:1812,notAClue-dev:0,undefined:1820
+<--- ROUND STARTING;9faaea7e-3771-42e1-b9e3-fae2e8c6f499
+---> JOIN;9faaea7e-3771-42e1-b9e3-fae2e8c6f499
+<--- ROUND STARTED;2320;mob,bienchen,undefined,notAClue,HBB,Haskellians,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;1,1
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,4
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1984,Haskellians:1217,JT:1920,bienchen:1683,mob:1630,notAClue:1813,notAClue-dev:0,undefined:1821
+<--- ROUND STARTING;7c74f0e6-4359-4661-9ef3-c5d27c5d5211
+---> JOIN;7c74f0e6-4359-4661-9ef3-c5d27c5d5211
+<--- ROUND STARTED;2321;notAClue,HBB,bienchen,mob,undefined,Haskellians,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,mob,undefined;MIA
+<--- SCORE;HBB:1984,Haskellians:1217,JT:1920,bienchen:1683,mob:1630,notAClue:1814,notAClue-dev:0,undefined:1821
+<--- ROUND STARTING;bd7c9fba-bdbb-4412-9d17-c07829912413
+---> JOIN;bd7c9fba-bdbb-4412-9d17-c07829912413
+<--- ROUND STARTED;2322;undefined,bienchen,mob,notAClue,HBB,Haskellians,JT
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;3,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,1
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1985,Haskellians:1218,JT:1921,bienchen:1684,mob:1630,notAClue:1815,notAClue-dev:0,undefined:1822
+<--- ROUND STARTING;5f18d1dd-d722-4fe9-9f4e-881ab869da4f
+---> JOIN;5f18d1dd-d722-4fe9-9f4e-881ab869da4f
+<--- ROUND STARTED;2323;bienchen,notAClue,mob,HBB,undefined,Haskellians,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;4,3
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1986,Haskellians:1219,JT:1922,bienchen:1684,mob:1631,notAClue:1816,notAClue-dev:0,undefined:1823
+<--- ROUND STARTING;f5ad7e85-f881-4a13-9e3e-55e5dece5ddd
+---> JOIN;f5ad7e85-f881-4a13-9e3e-55e5dece5ddd
+<--- ROUND STARTED;2324;bienchen,mob,Haskellians,undefined,HBB,notAClue,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,3
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1987,Haskellians:1220,JT:1923,bienchen:1685,mob:1631,notAClue:1817,notAClue-dev:0,undefined:1824
+<--- ROUND STARTING;19476e2c-8c7a-4f76-b504-c55ccc022194
+---> JOIN;19476e2c-8c7a-4f76-b504-c55ccc022194
+<--- ROUND STARTED;2325;Haskellians,mob,notAClue,bienchen,HBB,JT,undefined
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;3,1
+<--- PLAYER WANTS TO SEE;mob
+<--- ACTUAL DICE;3,1
+<--- PLAYER LOST;mob;SEE_FAILED
+<--- SCORE;HBB:1988,Haskellians:1221,JT:1924,bienchen:1686,mob:1631,notAClue:1818,notAClue-dev:0,undefined:1825
+<--- ROUND STARTING;75f52014-55ad-4955-b04c-b69eb25966d9
+---> JOIN;75f52014-55ad-4955-b04c-b69eb25966d9
+<--- HEARTBEAT
+<--- ROUND STARTED;2326;mob,notAClue,HBB,undefined,bienchen,Haskellians,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;2,2
+<--- YOUR TURN;916c7f34-8b7e-44e8-bbcd-f72358d3bf65
+Last Dice:2,2
+---> ROLL;916c7f34-8b7e-44e8-bbcd-f72358d3bf65
+<--- PLAYER ROLLS;HBB
+<--- ROLLED;6,1;2f55d027-79ec-4ea6-907f-94da6d3d762f
+fake
+---> ANNOUNCE;6,6;2f55d027-79ec-4ea6-907f-94da6d3d762f
+<--- ANNOUNCED;HBB;6,6
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;HBB;CAUGHT_BLUFFING
+<--- SCORE;HBB:1988,Haskellians:1222,JT:1925,bienchen:1687,mob:1632,notAClue:1819,notAClue-dev:0,undefined:1826
+<--- ROUND STARTING;e1c42592-9d4b-4e82-add1-9d4ce3c1ed82
+---> JOIN;e1c42592-9d4b-4e82-add1-9d4ce3c1ed82
+<--- ROUND STARTED;2327;bienchen,undefined,notAClue,Haskellians,mob,HBB,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,4
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1989,Haskellians:1223,JT:1926,bienchen:1687,mob:1633,notAClue:1820,notAClue-dev:0,undefined:1827
+<--- ROUND STARTING;c39a4cb9-fd37-4744-9c94-1a5d5578ba8f
+---> JOIN;c39a4cb9-fd37-4744-9c94-1a5d5578ba8f
+<--- ROUND STARTED;2328;notAClue,mob,bienchen,Haskellians,undefined,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,5
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,3
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1990,Haskellians:1224,JT:1927,bienchen:1688,mob:1633,notAClue:1821,notAClue-dev:0,undefined:1828
+<--- ROUND STARTING;8d76c874-ee46-4b57-a870-c082d156f70f
+---> JOIN;8d76c874-ee46-4b57-a870-c082d156f70f
+<--- ROUND STARTED;2329;mob,notAClue,Haskellians,bienchen,HBB,undefined,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,1
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,4
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;4,1
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1991,Haskellians:1224,JT:1928,bienchen:1689,mob:1634,notAClue:1822,notAClue-dev:0,undefined:1829
+<--- ROUND STARTING;1bb233fc-8e10-47b0-8d3c-2e47dade3926
+---> JOIN;1bb233fc-8e10-47b0-8d3c-2e47dade3926
+<--- ROUND STARTED;2330;mob,notAClue,bienchen,HBB,undefined,Haskellians,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,1
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1992,Haskellians:1225,JT:1929,bienchen:1690,mob:1635,notAClue:1822,notAClue-dev:0,undefined:1830
+<--- ROUND STARTING;b9685d7d-8022-459f-a18e-1a28626bfed1
+---> JOIN;b9685d7d-8022-459f-a18e-1a28626bfed1
+<--- ROUND STARTED;2331;notAClue,mob,bienchen,undefined,Haskellians,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,3
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,4
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1993,Haskellians:1226,JT:1930,bienchen:1691,mob:1635,notAClue:1823,notAClue-dev:0,undefined:1831
+<--- ROUND STARTING;e28b9b88-0b35-4fa1-8d9a-b7b16941762e
+---> JOIN;e28b9b88-0b35-4fa1-8d9a-b7b16941762e
+<--- HEARTBEAT
+<--- ROUND STARTED;2332;notAClue,bienchen,Haskellians,mob,HBB,undefined,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;5,4
+<--- PLAYER LOST;Haskellians;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1994,Haskellians:1226,JT:1931,bienchen:1692,mob:1636,notAClue:1824,notAClue-dev:0,undefined:1832
+<--- ROUND STARTING;3e5230fb-999c-4422-bf94-a1cf766135be
+---> JOIN;3e5230fb-999c-4422-bf94-a1cf766135be
+<--- ROUND STARTED;2333;mob,undefined,bienchen,notAClue,Haskellians,JT,HBB
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,3
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1995,Haskellians:1227,JT:1932,bienchen:1692,mob:1637,notAClue:1825,notAClue-dev:0,undefined:1833
+<--- ROUND STARTING;02ccc526-00c8-4b12-8ebf-a9cc0758ba9c
+---> JOIN;02ccc526-00c8-4b12-8ebf-a9cc0758ba9c
+<--- ROUND STARTED;2334;HBB,notAClue,mob,undefined,bienchen,JT,Haskellians
+<--- YOUR TURN;3541c76b-0d2e-4192-b975-33c985de17bb
+SEE wegen falscher nummer
+---> SEE;3541c76b-0d2e-4192-b975-33c985de17bb
+<--- PLAYER WANTS TO SEE;HBB
+<--- PLAYER LOST;HBB;SEE_BEFORE_FIRST_ROLL
+<--- SCORE;HBB:1995,Haskellians:1228,JT:1933,bienchen:1693,mob:1638,notAClue:1826,notAClue-dev:0,undefined:1834
+<--- ROUND STARTING;2098285d-faad-4ff7-9283-3cf7702a6c25
+---> JOIN;2098285d-faad-4ff7-9283-3cf7702a6c25
+<--- ROUND STARTED;2335;notAClue,mob,Haskellians,undefined,bienchen,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;6,2
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;3,3
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;4,3
+<--- PLAYER LOST;undefined;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:1996,Haskellians:1229,JT:1934,bienchen:1694,mob:1639,notAClue:1827,notAClue-dev:0,undefined:1834
+<--- ROUND STARTING;2f1a6a26-b19d-4613-8dc3-b497817d3f9b
+---> JOIN;2f1a6a26-b19d-4613-8dc3-b497817d3f9b
+<--- ROUND STARTED;2336;mob,bienchen,undefined,notAClue,Haskellians,JT,HBB
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,4
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:1997,Haskellians:1230,JT:1935,bienchen:1694,mob:1640,notAClue:1828,notAClue-dev:0,undefined:1835
+<--- ROUND STARTING;716a0bc7-20ac-4e88-9123-67d91413dcf3
+---> JOIN;716a0bc7-20ac-4e88-9123-67d91413dcf3
+<--- ROUND STARTED;2337;mob,undefined,notAClue,HBB,Haskellians,bienchen,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,3
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,1
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,1
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:1998,Haskellians:1231,JT:1936,bienchen:1695,mob:1641,notAClue:1828,notAClue-dev:0,undefined:1836
+<--- ROUND STARTING;10aa8abe-e349-449d-871f-0f8d3dc59ac9
+---> JOIN;10aa8abe-e349-449d-871f-0f8d3dc59ac9
+<--- HEARTBEAT
+<--- ROUND STARTED;2338;notAClue,undefined,mob,Haskellians,JT,bienchen,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;5,2
+<--- PLAYER LOST;undefined;SEE_FAILED
+<--- SCORE;HBB:1999,Haskellians:1232,JT:1937,bienchen:1696,mob:1642,notAClue:1829,notAClue-dev:0,undefined:1836
+<--- ROUND STARTING;487c87d5-5365-46f0-8e61-822b19e41d9f
+---> JOIN;487c87d5-5365-46f0-8e61-822b19e41d9f
+<--- ROUND STARTED;2339;undefined,Haskellians,notAClue,mob,bienchen,JT,HBB
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,6
+<--- PLAYER ROLLS;Haskellians
+<--- ANNOUNCED;Haskellians;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,JT,bienchen,mob,notAClue,undefined;MIA
+<--- SCORE;HBB:1999,Haskellians:1233,JT:1937,bienchen:1696,mob:1642,notAClue:1829,notAClue-dev:0,undefined:1836
+<--- ROUND STARTING;df724329-5eb7-4a8b-8230-62bfb8870679
+---> JOIN;df724329-5eb7-4a8b-8230-62bfb8870679
+<--- ROUND STARTED;2340;notAClue,mob,bienchen,undefined,JT,HBB,Haskellians
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,notAClue,undefined;MIA
+<--- SCORE;HBB:1999,Haskellians:1233,JT:1937,bienchen:1696,mob:1643,notAClue:1829,notAClue-dev:0,undefined:1836
+<--- ROUND STARTING;1e2220b9-1576-434e-b5fb-e9d4fe7893bb
+---> JOIN;1e2220b9-1576-434e-b5fb-e9d4fe7893bb
+<--- ROUND STARTED;2341;mob,notAClue,bienchen,undefined,Haskellians,HBB,JT
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;2,1
+<--- ACTUAL DICE;2,1
+<--- PLAYER LOST;HBB,Haskellians,JT,bienchen,notAClue,undefined;MIA
+<--- SCORE;HBB:1999,Haskellians:1233,JT:1937,bienchen:1696,mob:1644,notAClue:1829,notAClue-dev:0,undefined:1836
+<--- ROUND STARTING;8ff67533-f311-47fa-a8da-f40a27ff5314
+---> JOIN;8ff67533-f311-47fa-a8da-f40a27ff5314
+<--- ROUND STARTED;2342;undefined,mob,notAClue,JT,bienchen,HBB,Haskellians
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;1,1
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;4,2
+<--- PLAYER LOST;mob;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:2000,Haskellians:1234,JT:1938,bienchen:1697,mob:1644,notAClue:1830,notAClue-dev:0,undefined:1837
+<--- ROUND STARTING;0f4b6376-8a30-4534-a61e-eacf1983b715
+---> JOIN;0f4b6376-8a30-4534-a61e-eacf1983b715
+<--- ROUND STARTED;2343;notAClue,bienchen,mob,undefined,Haskellians,HBB,JT
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,6
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER LOST;bienchen;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:2001,Haskellians:1235,JT:1939,bienchen:1697,mob:1645,notAClue:1831,notAClue-dev:0,undefined:1838
+<--- ROUND STARTING;6a280a10-1105-4a07-92af-76d25fd4724a
+---> JOIN;6a280a10-1105-4a07-92af-76d25fd4724a
+<--- ROUND STARTED;2344;undefined,notAClue,mob,bienchen,Haskellians,JT,HBB
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;6,3
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;6,3
+<--- PLAYER LOST;notAClue;SEE_FAILED
+<--- SCORE;HBB:2002,Haskellians:1236,JT:1940,bienchen:1698,mob:1646,notAClue:1831,notAClue-dev:0,undefined:1839
+<--- ROUND STARTING;dbaadb7e-fe88-48e7-bc87-6d4c2f3fd6c6
+---> JOIN;dbaadb7e-fe88-48e7-bc87-6d4c2f3fd6c6
+<--- HEARTBEAT
+<--- ROUND STARTED;2345;JT,bienchen,mob,undefined,Haskellians,HBB,notAClue
+<--- PLAYER ROLLS;JT
+<--- ANNOUNCED;JT;5,5
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER LOST;bienchen;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:2003,Haskellians:1237,JT:1941,bienchen:1698,mob:1647,notAClue:1832,notAClue-dev:0,undefined:1840
+<--- ROUND STARTING;d15e3218-c4f6-420b-9c36-2f0d1875ad25
+---> JOIN;d15e3218-c4f6-420b-9c36-2f0d1875ad25
+<--- ROUND STARTED;2346;bienchen,notAClue,HBB,undefined,Haskellians,mob,JT
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER WANTS TO SEE;notAClue
+<--- ACTUAL DICE;5,3
+<--- PLAYER LOST;bienchen;CAUGHT_BLUFFING
+<--- SCORE;HBB:2004,Haskellians:1238,JT:1942,bienchen:1698,mob:1648,notAClue:1833,notAClue-dev:0,undefined:1841
+<--- ROUND STARTING;f86dc999-846b-45d3-9558-2545e2633903
+---> JOIN;f86dc999-846b-45d3-9558-2545e2633903
+<--- ROUND STARTED;2347;notAClue,bienchen,mob,undefined,Haskellians,JT,HBB
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;5,2
+<--- PLAYER ROLLS;bienchen
+<--- ANNOUNCED;bienchen;2,2
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;5,5
+<--- PLAYER ROLLS;undefined
+<--- ANNOUNCED;undefined;4,3
+<--- PLAYER LOST;undefined;ANNOUNCED_LOSING_DICE
+<--- SCORE;HBB:2005,Haskellians:1239,JT:1943,bienchen:1699,mob:1649,notAClue:1834,notAClue-dev:0,undefined:1841
+<--- ROUND STARTING;24dcbd14-16eb-450f-8c95-6f7414312e1f
+---> JOIN;24dcbd14-16eb-450f-8c95-6f7414312e1f
+<--- ROUND STARTED;2348;mob,notAClue,undefined,bienchen,Haskellians,JT,HBB
+<--- PLAYER ROLLS;mob
+<--- ANNOUNCED;mob;3,2
+<--- PLAYER ROLLS;notAClue
+<--- ANNOUNCED;notAClue;6,4
+<--- PLAYER WANTS TO SEE;undefined
+<--- ACTUAL DICE;6,4
+<--- PLAYER LOST;undefined;SEE_FAILED
+<--- SCORE;HBB:2006,Haskellians:1240,JT:1944,bienchen:1700,mob:1650,notAClue:1835,notAClue-dev:0,undefined:1841
+<--- ROUND STARTING;ac81f189-269f-4f21-b4bc-fe9a902ae2f7
+---> JOIN;ac81f189-269f-4f21-b4bc-fe9a902ae2f7
