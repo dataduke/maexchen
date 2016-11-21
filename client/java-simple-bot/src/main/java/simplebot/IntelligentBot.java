@@ -49,7 +49,11 @@ public class IntelligentBot implements MessageListener {
             if (lastDice.equals("2,1")) {
                 System.out.println("SEE wegen maxien");
                 tryToSend("SEE;" + parts[1]);
-            } else if (dices.indexOf(lastDice) == dices.indexOf(forLastDice) + 1){
+            } else if (lastDice.equals("6,6")) {
+                System.out.println("SEE wegen 6,6");
+                tryToSend("SEE;" + parts[1]);
+            }
+            else if (dices.indexOf(lastDice) == dices.indexOf(forLastDice) + 1){
                 System.out.println("SEE wegen nur eins abstand");
                 tryToSend("SEE;" + parts[1]);
             } else {
