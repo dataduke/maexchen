@@ -10,7 +10,8 @@ public class Main {
 
 	private enum BotTypes {
 		simple,
-		random
+		random,
+		intelligent
 	}
 	
 	public static void main(String[] args) throws IOException {
@@ -18,7 +19,7 @@ public class Main {
 		String serverHost = args[0];
 		int serverPort = Integer.parseInt(args[1]);
 		String clientName = args[2];
-		BotTypes botType = BotTypes.simple;
+		BotTypes botType = BotTypes.intelligent;
 		if (args.length > 3) {
 			botType = BotTypes.valueOf(args[3]);
 		}
@@ -41,8 +42,10 @@ public class Main {
 	private static MessageListener createBot(BotTypes botType, String clientName, MessageSender messageSender) {
 		if (botType == BotTypes.random) {
 			return new RandomBot(clientName, messageSender);
+		} else if (botType == BotTypes.simple) {
+			return new SimpleBot(clientName, messageSender);
 		}
-		return new SimpleBot(clientName, messageSender);
+		return  new IntelligentBot(clientName, messageSender);
 	}
 
 }
