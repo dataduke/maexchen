@@ -68,7 +68,7 @@ public class IntelligentBot implements MessageListener {
                 System.out.println("real");
                 tryToSend("ANNOUNCE;" + parts[1] + ";" + parts[2]);
             } else {
-                int fake = new Random().nextInt(3) + 1;
+                int fake = new Random().nextInt(3) + 2;
                 if (indexOfLast + fake >= dices.size() - 1) {
                     fake = 1;
                 }
